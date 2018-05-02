@@ -15,3 +15,13 @@
    let answer = city === "NYC" ? "Ok, sounds good." : "No go.";
    return answer
  }
+
+ function switchOnCharmFromTip(tip){
+   switch(tip){
+     case "generous":
+        "Thank you so much."
+        break;
+     case "not so generous":
+        "Thank you."
+   }
+ }
