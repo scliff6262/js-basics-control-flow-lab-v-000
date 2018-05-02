@@ -22,7 +22,7 @@
      case "generous":
         answer = "Thank you so much."
         break;
-     case "not so generous":
+     case "not as generous":
         answer = "Thank you."
         break;
      default:
