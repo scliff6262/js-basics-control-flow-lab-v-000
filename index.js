@@ -23,5 +23,8 @@
         break;
      case "not so generous":
         "Thank you."
+        break;
+     default: 
+        "Bye."
    }
  }
