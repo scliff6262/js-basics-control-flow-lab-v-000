@@ -8,5 +8,5 @@
    } else if (num > 2500) {
       answer = "No can do."
    }
-   
+   return answer
  }
